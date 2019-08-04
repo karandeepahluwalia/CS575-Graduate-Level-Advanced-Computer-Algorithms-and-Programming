@@ -1,0 +1,6 @@
+Number of cards in price list:2   Profit:2750   Purchased cards:2    Time in seconds:2.6e-05
+JimRice1975 
+RickyHenderson1983 
+Number of cards in price list:3   Profit:950   Purchased cards:2    Time in seconds:2.5e-05
+DerekJeter1996 
+JimRice1975 
